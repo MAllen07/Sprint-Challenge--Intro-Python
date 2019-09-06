@@ -23,7 +23,7 @@
 
 
 
-class Vehicle:
+class Vehicle:    #base
     pass
 
 
